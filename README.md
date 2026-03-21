@@ -32,10 +32,6 @@ This repository documents my **daily coding journey**, where I consistently solv
   <img src="https://streak-stats.demolab.com?user=Shreyasoma&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyasoma&show_icons=true&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🧠 Skills Being Built
